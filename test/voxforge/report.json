@@ -1,0 +1,260 @@
+{
+  "statistics": {
+    "num_wavs": 10,
+    "num_words": 114,
+    "num_entities": 0,
+    "correct_transcriptions": 0,
+    "correct_intent_names": 0,
+    "correct_words": 73,
+    "correct_entities": 0,
+    "transcription_accuracy": 0.6403508771929824,
+    "intent_accuracy": 1,
+    "entity_accuracy": 1,
+    "intent_entity_accuracy": 1,
+    "average_transcription_speedup": 4.185739880402586
+  },
+  "actual": {
+    "fr-sb-502.wav": {
+      "text": "vous contemple réélu nouveau signe dans le ciel et de nouveaux mis sur la paix",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0003039836883544922,
+      "transcribe_seconds": 1.8935608863830566,
+      "wav_seconds": 7,
+      "likelihood": 2.381017500390366e-07,
+      "word_error": {
+        "expected": "vous CONTEMPLEREZ DE      NOUVEAUX SIGNES dans le  ciel et  de  nouveaux FRUITS sur la  TERRE",
+        "actual": "vous CONTEMPLE    RééLU NOUVEAU  SIGNE  dans le  ciel et  de  nouveaux MIS    sur la  PAIX",
+        "words": 15,
+        "correct": 9,
+        "errors": 6
+      }
+    },
+    "fr-sb-495.wav": {
+      "text": "il était à soixante millions de kilomètres dans l' état",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00020122528076171875,
+      "transcribe_seconds": 1.2198379039764404,
+      "wav_seconds": 6,
+      "likelihood": 0.0006051955628116466,
+      "word_error": {
+        "expected": "il  était à  soixante millions de  kilomètres dans *** L’ESPACE",
+        "actual": "il  était à  soixante millions de  kilomètres dans L'  éTAT",
+        "words": 9,
+        "correct": 8,
+        "errors": 2
+      }
+    },
+    "fr-sb-499.wav": {
+      "text": "son esprit saint maurice et éprouvaient des difficultés à dissimuler la colère",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0002357959747314453,
+      "transcribe_seconds": 2.029435873031616,
+      "wav_seconds": 8,
+      "likelihood": 0.0002216800746176596,
+      "word_error": {
+        "expected": "son esprit ***   ***     S’ENGOURDISSAIT éPROUVAIT   des difficultés à  dissimuler la  colère",
+        "actual": "son esprit SAINT MAURICE ET                éPROUVAIENT des difficultés à  dissimuler la  colère",
+        "words": 10,
+        "correct": 8,
+        "errors": 4
+      }
+    },
+    "fr-sb-501.wav": {
+      "text": "il serait omar est reconnu ce faisant le le poids était un simple main poser",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0001914501190185547,
+      "transcribe_seconds": 2.2722132205963135,
+      "wav_seconds": 8.125,
+      "likelihood": 6.409602683146173e-10,
+      "word_error": {
+        "expected": "il  SE     RETOURNA ET  RECONNUT ce  faisant QUE le  poids était UNE simple main POSéE",
+        "actual": "il  SERAIT OMAR     EST RECONNU  ce  faisant LE  le  poids était UN  simple main POSER",
+        "words": 15,
+        "correct": 8,
+        "errors": 7
+      }
+    },
+    "fr-sb-500.wav": {
+      "text": "elles ont déterminé un mouvement btp spatiale il ne s' arrêtera pas",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00019073486328125,
+      "transcribe_seconds": 1.9018399715423584,
+      "wav_seconds": 7.375,
+      "likelihood": 2.6973250774566158e-08,
+      "word_error": {
+        "expected": "elles ont déterminé un  mouvement D'éQUITé SOCIALE  QUI ne  *** S'ARRêTERA pas",
+        "actual": "elles ont déterminé un  mouvement BTP        SPATIALE IL  ne  S'  ARRêTERA   pas",
+        "words": 11,
+        "correct": 7,
+        "errors": 5
+      }
+    },
+    "fr-sb-503.wav": {
+      "text": "les yeux dans les lieux les clients les interrogations le temps",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00020003318786621094,
+      "transcribe_seconds": 1.556931734085083,
+      "wav_seconds": 5.625,
+      "likelihood": 0.0010585088514404291,
+      "word_error": {
+        "expected": "les yeux dans les YEUX  les clients les INTERROGENT SUR            le  temps",
+        "actual": "les yeux dans les LIEUX les clients les ***         INTERROGATIONS le  temps",
+        "words": 12,
+        "correct": 9,
+        "errors": 3
+      }
+    },
+    "fr-sb-496.wav": {
+      "text": "le monde était dans une sécurité un tranquillité parfait",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00018739700317382812,
+      "transcribe_seconds": 1.5019927024841309,
+      "wav_seconds": 6.5,
+      "likelihood": 0.00018346305350822249,
+      "word_error": {
+        "expected": "le  monde était dans une sécurité ET  UNE tranquillité PARFAITES",
+        "actual": "le  monde était dans une sécurité *** UN  tranquillité PARFAIT",
+        "words": 10,
+        "correct": 7,
+        "errors": 3
+      }
+    },
+    "fr-sb-498.wav": {
+      "text": "une image pleurant émouvant se formaient et se des formes et dans son esprit",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0001995563507080078,
+      "transcribe_seconds": 2.4070792198181152,
+      "wav_seconds": 8.25,
+      "likelihood": 1.2319148287442547e-08,
+      "word_error": {
+        "expected": "une image FLOUE ET       MOUVANTE  se  FORMAIT   et  se  *** ***    DéFORMAIT dans son esprit",
+        "actual": "une image ***   PLEURANT éMOUVANT se  FORMAIENT et  se  DES FORMES ET         dans son esprit",
+        "words": 13,
+        "correct": 8,
+        "errors": 7
+      }
+    },
+    "fr-sb-497.wav": {
+      "text": "il vérifiables par perfusion eln infectées le bien",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.0001850128173828125,
+      "transcribe_seconds": 1.1707024574279785,
+      "wav_seconds": 6.125,
+      "likelihood": 5.99156758894353e-08,
+      "word_error": {
+        "expected": "il  VéRIFIA     SA  perfusion ELLE N'INJECTAIT PLUS RIEN",
+        "actual": "il  VéRIFIABLES PAR perfusion ELN  INFECTéES  LE   BIEN",
+        "words": 8,
+        "correct": 2,
+        "errors": 6
+      }
+    },
+    "fr-sb-504.wav": {
+      "text": "il avance à pas un par la pression accentua un court instant",
+      "intent": {
+        "name": "",
+        "confidence": 0
+      },
+      "entities": [],
+      "intents": [],
+      "slots": {},
+      "recognize_seconds": 0.00019359588623046875,
+      "transcribe_seconds": 1.381845235824585,
+      "wav_seconds": 7.25,
+      "likelihood": 1.3257981189047595e-10,
+      "word_error": {
+        "expected": "il  AVANçA D'UN pas *** ET  la  pression S'ACCENTUA un  court instant",
+        "actual": "il  AVANCE  à   pas UN  PAR la  pression ACCENTUA   un  court instant",
+        "words": 11,
+        "correct": 7,
+        "errors": 5
+      }
+    }
+  },
+  "expected": {
+    "fr-sb-502.wav": {
+      "text": "vous contemplerez de nouveaux signes dans le ciel et de nouveaux fruits sur la terre"
+    },
+    "fr-sb-495.wav": {
+      "text": "il était à soixante millions de kilomètres dans l’espace"
+    },
+    "fr-sb-499.wav": {
+      "text": "son esprit s’engourdissait éprouvait des difficultés à dissimuler la colère"
+    },
+    "fr-sb-501.wav": {
+      "text": "il se retourna et reconnut ce faisant que le poids était une simple main posée"
+    },
+    "fr-sb-500.wav": {
+      "text": "elles ont déterminé un mouvement d'équité sociale qui ne s'arrêtera pas"
+    },
+    "fr-sb-503.wav": {
+      "text": "les yeux dans les yeux les clients les interrogent sur le temps"
+    },
+    "fr-sb-496.wav": {
+      "text": "le monde était dans une sécurité et une tranquillité parfaites"
+    },
+    "fr-sb-498.wav": {
+      "text": "une image floue et mouvante se formait et se déformait dans son esprit"
+    },
+    "fr-sb-497.wav": {
+      "text": "il vérifia sa perfusion elle n'injectait plus rien"
+    },
+    "fr-sb-504.wav": {
+      "text": "il avança d'un pas et la pression s'accentua un court instant"
+    }
+  }
+}

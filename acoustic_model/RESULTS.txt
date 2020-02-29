@@ -1,0 +1,1 @@
+%WER 30.17 [ 42464 / 140755, 3870 ins, 12822 del, 25772 sub ] exp/nnet3_chain/tdnn_250/decode_test/wer_7_0.0
