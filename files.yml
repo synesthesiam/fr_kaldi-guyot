@@ -68,6 +68,42 @@ default:
     bytes: 26214400
     file-name: HCLG.fst
     sha256: a42ff1e95cfe2bfe66f040d3106cb49897f47e47f1cd4411e7b74d2f1281a624
+  acoustic_model/model/graph/HCLG.fst.gz.part-05:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: e32fed5ff9df008de33cbf085493d82afacfc13a8f28563dcf1a5ce623e52b4e
+  acoustic_model/model/graph/HCLG.fst.gz.part-06:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: fdd19e8d44d4fbd6c927ebf045b3468d6ea5f4cf6252e40111bc0370180499a4
+  acoustic_model/model/graph/HCLG.fst.gz.part-07:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 4b3a68f13eb17e9089197dc93df449ec9d27a6eca2a536b9e90f81255b80eb2d
+  acoustic_model/model/graph/HCLG.fst.gz.part-08:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 0b4a4890dc9bd5796884873a01566bc7fe753bfb832e2530e925f862909f9423
+  acoustic_model/model/graph/HCLG.fst.gz.part-09:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 9509a2eca40ddd3ba234d24284ef440333c0297a58fdd54b764395361e44085c
+  acoustic_model/model/graph/HCLG.fst.gz.part-10:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: e6af6a9ad957ac3afe43c5993c98eb36e5453787241067504bf9ee228309357f
+  acoustic_model/model/graph/HCLG.fst.gz.part-11:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: f27e9461df6ca6f3efaff71a5e1dc6645ef56d312bd217e13c8871da20a09538
+  acoustic_model/model/graph/HCLG.fst.gz.part-12:
+    bytes: 26214400
+    file-name: HCLG.fst
+    sha256: 96cf43a8b84b295bc78585df1c0100a1a552a76efb8e0900136b05ac5c28930e
+  acoustic_model/model/graph/HCLG.fst.gz.part-13:
+    bytes: 551541
+    file-name: HCLG.fst
+    sha256: dc8caf51925270ed1d817f600e57cb45afce9884ba0dc9d9efbd6a1dc25f2114
   acoustic_model/model/graph/num_pdfs:
     bytes: 5
     sha256: f026194e0e81dfcae76b0bd1c698414b091fee634dbb3622c675df5e4dd8221d
@@ -132,6 +168,9 @@ default:
   profile.yml:
     bytes: 658
     sha256: e966e7cb5d4d20a23f76ec23953ffc79fcf6929212573a1eba33bd65903b3868
+  slot_programs/rhasspy/number:
+    bytes: 651
+    sha256: d1f10ccea552c2c9ba2a59dd69705f8e82545592c7db5ca7078b462ed9d08387
   stop_words.txt:
     bytes: 805
     sha256: 6ca60ffd4257c35cc3981d0e923881c3d8b85c8c0f6ef7a6697bd4ae97200fd8
