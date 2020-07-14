@@ -1,6 +1,6 @@
 ---
 name: "fr_kaldi-guyot"
-version: "1.0"
+version: "1.1"
 
 language:
   name: "french"
@@ -22,6 +22,7 @@ training:
     - !env "${profile_dir}/base_language_model.txt"
     - !env "${profile_dir}/base_language_model.fst"
     - !env "${profile_dir}/g2p.fst"
+    - !env "${profile_dir}/g2p.corpus"
     - !env "${profile_dir}/acoustic_model/model/final.mdl"
     - !env "${profile_dir}/acoustic_model/model/graph/HCLG.fst"
 
